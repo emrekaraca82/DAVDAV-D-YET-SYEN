@@ -1,0 +1,23 @@
+[10-May-2019 07:16:13 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/aysedavd/public_html/fonksiyon.php on line 42
+[10-May-2019 07:16:13 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/aysedavd/public_html/page.php on line 366
+[10-Jun-2019 22:23:41 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/aysedavd/public_html/fonksiyon.php on line 42
+[10-Jun-2019 22:23:41 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/aysedavd/public_html/page.php on line 366
+[14-Jun-2019 01:34:41 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[14-Jun-2019 01:53:56 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[14-Jun-2019 01:57:50 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[16-Jun-2019 09:34:35 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/aysedavd/public_html/fonksiyon.php on line 42
+[16-Jun-2019 09:34:35 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aysedavd/public_html/basaridevami.php on line 170
+[17-Jun-2019 12:35:58 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/aysedavd/public_html/index.php on line 256
+[17-Jun-2019 12:35:58 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on null in /home/aysedavd/public_html/index.php on line 256
+[18-Jun-2019 14:31:59 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 14:34:34 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 14:36:44 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 14:37:36 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 14:38:27 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 14:42:56 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 14:45:49 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 15:03:51 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[18-Jun-2019 15:06:18 Europe/Istanbul] PHP Notice:  Undefined index: basari_resim in /home/aysedavd/public_html/basariadd.php on line 107
+[19-Jun-2019 12:33:58 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/aysedavd/public_html/index.php on line 256
+[19-Jun-2019 12:33:58 Europe/Istanbul] PHP Fatal error:  Call to a member function query() on null in /home/aysedavd/public_html/index.php on line 256
+[03-Jul-2019 22:27:02 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/aysedavd/public_html/basaridevami.php on line 170
